@@ -37,7 +37,7 @@ An end-to-end cloud-native pipeline for processing Sentinel-2 STAC imagery to ex
 ## Quick Start with Docker
 
 ### 1. Build the Docker Image
-```bash
+
 docker build -t field-ndvi-pipeline .
 
 ## Pipeline Architecture
