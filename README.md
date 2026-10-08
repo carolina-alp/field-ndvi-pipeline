@@ -1,6 +1,6 @@
 # 🌾 Cloud-Native Agricultural Field NDVI Pipeline
 
-[![CI Pipeline](https://github.com/YOUR_GITHUB_USERNAME/field-ndvi-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/field-ndvi-pipeline/actions)
+[![CI Pipeline](https://github.com/carolina-alp/field-ndvi-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/carolina-alp/field-ndvi-pipeline/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-green.svg)](https://www.python.org/)
