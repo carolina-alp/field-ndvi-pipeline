@@ -5,13 +5,12 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-green.svg)](https://www.python.org/)
 
-# 🌾 Cloud-Native Agricultural Field NDVI Pipeline
 
 An end-to-end cloud-native pipeline for processing Sentinel-2 STAC imagery to extract and visualize phenological NDVI time series for agricultural fields, custom bounding boxes, or single point coordinates.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Flexible Input Support**: Load spatial geometries directly from:
   - Vector files (`.geojson`, `.shp`).
@@ -25,7 +24,7 @@ An end-to-end cloud-native pipeline for processing Sentinel-2 STAC imagery to ex
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Python 3.11**
 * **Geospatial**: `geopandas`, `shapely`, `fiona`, `rasterio`
@@ -35,13 +34,11 @@ An end-to-end cloud-native pipeline for processing Sentinel-2 STAC imagery to ex
 
 ---
 
-## 🚀 Quick Start with Docker
+## Quick Start with Docker
 
 ### 1. Build the Docker Image
 ```bash
 docker build -t field-ndvi-pipeline .
-
----
 
 ## Pipeline Architecture
 
