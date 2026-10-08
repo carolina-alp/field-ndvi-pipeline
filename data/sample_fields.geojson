@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "field_id": "North_Field", "crop": "Corn" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-66.12, -17.38],
+          [-66.11, -17.38],
+          [-66.11, -17.39],
+          [-66.12, -17.39],
+          [-66.12, -17.38]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "field_id": "South_Field", "crop": "Soybean" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-66.13, -17.40],
+          [-66.12, -17.40],
+          [-66.12, -17.41],
+          [-66.13, -17.41],
+          [-66.13, -17.40]
+        ]]
+      }
+    }
+  ]
+}
